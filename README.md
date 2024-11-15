@@ -13,7 +13,7 @@ You can add and delete Expenses easily with different categories.
 Clone the project
 
 ```bash
-   git clone https://github.com/PoojaAmanchi/PersonalExpenseTracker.git
+   git clone https://github.com/PoojaAmanchi/PersonalExpense-Tracker.git
 ```
 
 Go to the project directory
