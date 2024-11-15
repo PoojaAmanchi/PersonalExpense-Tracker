@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6ffab88.css",
+    "main.js": "/static/js/main.c34391eb.js",
+    "static/js/787.afd34582.chunk.js": "/static/js/787.afd34582.chunk.js",
+    "static/media/black-texture.jpg": "/static/media/black-texture.7a72899a0e751ec1d69b.jpg",
+    "static/media/Rohit.jpeg": "/static/media/Rohit.3ab99c2ddc57c81b98a8.jpeg",
+    "static/media/Manas.jpeg": "/static/media/Manas.a4c385c77eed989df5f3.jpeg",
+    "static/media/Jayesh.jpeg": "/static/media/Jayesh.07fe39305489b3b5d1f3.jpeg",
+    "static/media/instagram.png": "/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/developer.png": "/static/media/developer.7b4e3c2baaf9f020667f.png",
+    "static/media/Investment.svg": "/static/media/Investment.368d354ba53589d4ad78a09e2b02f6c6.svg",
+    "static/media/github.png": "/static/media/github.aa74d70be17d299a92fa.png",
+    "static/media/man.png": "/static/media/man.ad95e619b8cd3a288ffd.png",
+    "static/media/linkedin.png": "/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/Vector.svg": "/static/media/Vector.c691d17797e3bbe7df84220dc96c2f64.svg",
+    "index.html": "/index.html",
+    "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.a6ffab88.css.map": "/static/css/main.a6ffab88.css.map",
+    "main.c34391eb.js.map": "/static/js/main.c34391eb.js.map",
+    "787.afd34582.chunk.js.map": "/static/js/787.afd34582.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6ffab88.css",
+    "static/js/main.c34391eb.js"
+  ]
+}
